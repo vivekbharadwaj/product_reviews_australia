@@ -16,6 +16,7 @@ dependencies:
 - jsonschema=2.5.1=py27_0
 - jupyter_client=4.3.0=py27_0
 - jupyter_core=4.1.0=py27_0
+- lxml=3.6.1=py27_0
 - markupsafe=0.23=py27_2
 - mistune=0.7.2=py27_0
 - mkl=11.3.3=1
@@ -52,10 +53,13 @@ dependencies:
   - backports-abc==0.4
   - backports.shutil-get-terminal-size==1.0.0
   - backports.ssl-match-hostname==3.4.0.2
+  - cycler==0.10.0
   - ipython-genutils==0.1.0
   - jupyter-client==4.3.0
   - jupyter-core==4.1.0
+  - matplotlib==1.5.1
   - prompt-toolkit==1.0.3
+  - pyparsing==2.1.6
   - seaborn==0.7.1
   - win-unicode-console==0.5
 
